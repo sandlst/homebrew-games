@@ -1,9 +1,9 @@
 class DwarfFortress < Formula
   desc "Open-ended roguelike game"
   homepage "http://bay12games.com/dwarves/"
-  url "http://www.bay12games.com/dwarves/df_43_04_osx.tar.bz2"
-  version "0.43.04"
-  sha256 "a807aca43c5928e8e28e0b94bb6d11bc724acf8144beec1ac828723da2df07f8"
+  url "http://www.bay12games.com/dwarves/df_43_05_osx.tar.bz2"
+  version "0.43.05"
+  sha256 "c9614c012c23dcef6197f83d02510d577e1257c5a0de948af5c8f76ae56c5fc8"
 
   bottle do
     cellar :any
